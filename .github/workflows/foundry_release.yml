@@ -23,5 +23,5 @@ jobs:
           actionToken: ${{ secrets.GITHUB_TOKEN }}
           manifestFileName: 'module.json'
           manifestProtectedTrue: false
-          publicRepositoryAndBranch: 'cAPKck/world-currency-5e/main'
+          publicRepositoryAndBranch: 'cAPKck/seasons-and-stars-arsurun/main'
 
