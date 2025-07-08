@@ -5,14 +5,16 @@
   "version": "AUTOMATIC",
   "authors": [
     {
-      "name": "cAPKck",
-      "discord": "capkck"
+      "name": "cAPKck"
     }
   ],
+  "library": false,
   "compatibility": {
     "minimum": "13",
     "verified": "13"
   },
+  "esmodules": ["scripts/main.js"],
+  "styles": [],
   "relationships": {
     "requires": [
       {
