@@ -14,9 +14,7 @@
     "suffix": " DA",
     "startDay": 0
   },
-  "extensions": {
-    "seasons-and-stars": {
-      "seasons": [
+  "seasons": [
         {
           "name": "Rain",
           "monthStart": 1,
@@ -52,9 +50,7 @@
           "dayStart": 281,
           "dayEnd": 350
         }
-      ]
-    }
-  },
+      ],
   "leapYear": {
     "rule": "none"
   },
