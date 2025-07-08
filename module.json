@@ -13,7 +13,7 @@
     "minimum": "13",
     "verified": "13"
   },
-  "esmodules": ["scripts/main.js"],
+  "esmodules": [],
   "styles": [],
   "relationships": {
     "requires": [
