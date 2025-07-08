@@ -27,6 +27,7 @@
     ]
   },
   "url": "https://github.com/cAPKck/seasons-and-stars-arsurun",
-  "manifest": "AUTOMATIC",
-  "download": "AUTOMATIC"
+  "manifest": "https://github.com/cAPKck/seasons-and-stars-arsurun/releases/latest/download/module.json",
+  "download": "AUTOMATIC",
+  "readme": "https://github.com/cAPKck/world-currency-5e/blob/main/README.md"
 }
