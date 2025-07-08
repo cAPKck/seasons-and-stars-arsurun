@@ -1,0 +1,30 @@
+{
+  "id": "seasons-and-stars-arsurun",
+  "title": "Seasons & Stars: Arsurun",
+  "description": "Custom calendars for my campaign setting",
+  "version": "AUTOMATIC",
+  "authors": [
+    {
+      "name": "cAPKck",
+      "discord": "capkck"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "seasons-and-stars",
+        "type": "module",
+        "compatibility": {
+          "minimum": "0.7.0"
+        }
+      }
+    ]
+  },
+  "url": "https://github.com/cAPKck/seasons-and-stars-arsurun",
+  "manifest": "AUTOMATIC",
+  "download": "AUTOMATIC"
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rayners/fvtt-seasons-and-stars/main/schemas/calendar-collection-v1.0.0.json",
+  "name": "Arsurûn Calendar Pack",
+  "description": "Custom calendars for the Arsurûn setting",
+  "version": "1.0.0",
+  "author": "cAPKck",
+  "calendars": [
+    {
+      "id": "arsurun-standard",
+      "name": "Standard Arsurûn Calendar",
+      "description": "The default calendar used in the Arsurûn setting.",
+      "file": "arsurun.json",
+      "preview": "15th of Gamta, Rain, 1504 DA",
+      "tags": ["fantasy", "homebrew"],
+      "author": "cAPKck"
+    }
+  ]
+}

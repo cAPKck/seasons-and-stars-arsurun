@@ -1,0 +1,328 @@
+{
+  "id": "arsurun",
+  "translations": {
+    "en": {
+      "label": "Arsurûn Calendar",
+      "description": "The calendar of the Arsurûn setting.",
+      "setting": "D&D 5e Arsurûn"
+    }
+  },
+  "year": {
+    "epoch": 0,
+    "currentYear": 1603,
+    "prefix": "",
+    "suffix": " DA",
+    "startDay": 0
+  },
+  "extensions": {
+    "seasons-and-stars": {
+      "seasons": [
+        {
+          "name": "Rain",
+          "monthStart": 1,
+          "monthEnd": 3,
+          "dayStart": 1,
+          "dayEnd": 70
+        },
+        {
+          "name": "Bloom",
+          "monthStart": 3,
+          "monthEnd": 6,
+          "dayStart": 71,
+          "dayEnd": 140
+        },
+        {
+          "name": "Glare",
+          "monthStart": 6,
+          "monthEnd": 9,
+          "dayStart": 141,
+          "dayEnd": 210
+        },
+        {
+          "name": "Mar",
+          "monthStart": 9,
+          "monthEnd": 12,
+          "dayStart": 211,
+          "dayEnd": 280
+        },
+        {
+          "name": "Wail",
+          "monthStart": 12,
+          "monthEnd": 14,
+          "dayStart": 281,
+          "dayEnd": 350
+        }
+      ]
+    }
+  },
+  "leapYear": {
+    "rule": "none"
+  },
+  "months": [
+    {
+      "name": "Scorch",
+      "abbreviation": "Sco",
+      "days": 25,
+      "description": "The beginning of the annual heat cycle when the brutal Athasian sun starts its merciless assault on the dying world."
+    },
+    {
+      "name": "Morrow",
+      "abbreviation": "Mor",
+      "days": 25,
+      "description": "The month that follows Scorch, when hope for survival becomes increasingly desperate under the relentless heat."
+    },
+    {
+      "name": "Rest",
+      "abbreviation": "Res",
+      "days": 25,
+      "description": "A brief respite in the cycle, though on Athas even 'rest' means struggling against the hostile environment."
+    },
+    {
+      "name": "Gather",
+      "abbreviation": "Gat",
+      "days": 25,
+      "description": "The time for gathering what little sustenance can be found in the harsh wasteland before the sun's power peaks."
+    },
+    {
+      "name": "Breeze",
+      "abbreviation": "Bre",
+      "days": 25,
+      "description": "Named ironically, as any 'breeze' on Athas carries scorching heat and the dust of a world slowly dying."
+    },
+    {
+      "name": "Mist",
+      "abbreviation": "Mis",
+      "days": 25,
+      "description": "The month of rare atmospheric moisture, though even mist on Athas often brings more suffering than relief."
+    },
+    {
+      "name": "Bloom",
+      "abbreviation": "Blo",
+      "days": 25,
+      "description": "The cruel irony of bloom time on Athas, where few things flourish and those that do are often as dangerous as they are rare."
+    },
+    {
+      "name": "Haze",
+      "abbreviation": "Haz",
+      "days": 25,
+      "description": "The month when shimmering heat distorts the already nightmarish landscape of the dying world."
+    },
+    {
+      "name": "Hoard",
+      "abbreviation": "Hoa",
+      "days": 25,
+      "description": "The desperate time of hoarding whatever resources can be found before the sun reaches its most lethal intensity."
+    },
+    {
+      "name": "Wind",
+      "abbreviation": "Win",
+      "days": 25,
+      "description": "The month of searing winds that strip moisture from the land and flesh alike in the endless Athasian desert."
+    },
+    {
+      "name": "Sorrow",
+      "abbreviation": "Sor",
+      "days": 25,
+      "description": "The month that embodies the despair of Athas, when the weight of survival crushes hope from even the strongest souls."
+    },
+    {
+      "name": "Smolder",
+      "abbreviation": "Smo",
+      "days": 25,
+      "description": "The final month before the sun's peak fury, when the very air seems to burn and the world smolders in anticipation."
+    },
+    {
+      "name": "Smoldera",
+      "abbreviation": "Sma",
+      "days": 25,
+      "description": "The final month before the sun's peak fury, when the very air seems to burn and the world smolders in anticipation."
+    },
+    {
+      "name": "Smolderb",
+      "abbreviation": "Smb",
+      "days": 25,
+      "description": "The final month before the sun's peak fury, when the very air seems to burn and the world smolders in anticipation."
+    }
+  ],
+  "weekdays": [
+    {
+      "name": "Day of Dawn",
+      "abbreviation": "Daw",
+      "description": "First day of the week, dedicated to embarking on new adventures"
+    },
+    {
+      "name": "Day of Duty",
+      "abbreviation": "Dut",
+      "description": "Second day of the week, dedicated to staying true to your values and obligations"
+    },
+    {
+      "name": "Day of Strife",
+      "abbreviation": "Str",
+      "description": "Third day of the week, dedicated to the hardships to overcome"
+    },
+    {
+      "name": "Day of Grief",
+      "abbreviation": "Gri",
+      "description": "Fourth day of the week, dedicated to the loved ones we lost"
+    },
+    {
+      "name": "Day of Power",
+      "abbreviation": "Pow",
+      "description": "Fifth day of the week, dedicated to rising up and reaching our goals"
+    },
+    {
+      "name": "Day of Rest",
+      "abbreviation": "Res",
+      "description": "Sixth day of the week, dedicated to appreciating what we have achieved"
+    },
+    {
+      "name": "Day of Belief",
+      "abbreviation": "Bel",
+      "description": "Seventh and final day of the week, dedicated to introspection and the ones we look up to"
+    }
+  ],
+  "intercalary": [],
+  "moons": [
+    {
+      "name": "Ménulis",
+      "cycleLength": 19,
+      "firstNewMoon": {
+        "year": 1,
+        "month": 1,
+        "day": 6
+      },
+      "phases": [
+        {
+          "name": "New Moon",
+          "length": 1,
+          "singleDay": true,
+          "icon": "new"
+        },
+        {
+          "name": "Waxing Crescent",
+          "length": 4,
+          "singleDay": false,
+          "icon": "waxing-crescent"
+        },
+        {
+          "name": "First Quarter",
+          "length": 1,
+          "singleDay": true,
+          "icon": "first-quarter"
+        },
+        {
+          "name": "Waxing Gibbous",
+          "length": 4,
+          "singleDay": false,
+          "icon": "waxing-gibbous"
+        },
+        {
+          "name": "Full Moon",
+          "length": 1,
+          "singleDay": true,
+          "icon": "full"
+        },
+        {
+          "name": "Waning Gibbous",
+          "length": 3,
+          "singleDay": false,
+          "icon": "waning-gibbous"
+        },
+        {
+          "name": "Last Quarter",
+          "length": 1,
+          "singleDay": true,
+          "icon": "last-quarter"
+        },
+        {
+          "name": "Waning Crescent",
+          "length": 4,
+          "singleDay": false,
+          "icon": "waning-crescent"
+        }
+      ],
+      "color": "#cccc66",
+      "translations": {
+        "en": {
+          "description": "The large, bright illuminator of the night sky and, most of the time, visible even at day"
+        }
+      }
+    },
+    {
+      "name": "Vikas",
+      "cycleLength": 62,
+      "firstNewMoon": {
+        "year": 1,
+        "month": 1,
+        "day": 18
+      },
+      "phases": [
+        {
+          "name": "New Moon",
+          "length": 7,
+          "singleDay": false,
+          "icon": "new"
+        },
+        {
+          "name": "Waxing Crescent",
+          "length": 12,
+          "singleDay": false,
+          "icon": "waxing-crescent"
+        },
+        {
+          "name": "First Quarter",
+          "length": 5,
+          "singleDay": false,
+          "icon": "first-quarter"
+        },
+        {
+          "name": "Waxing Gibbous",
+          "length": 9,
+          "singleDay": false,
+          "icon": "waxing-gibbous"
+        },
+        {
+          "name": "Full Moon",
+          "length": 3,
+          "singleDay": false,
+          "icon": "full"
+        },
+        {
+          "name": "Waning Gibbous",
+          "length": 9,
+          "singleDay": false,
+          "icon": "waning-gibbous"
+        },
+        {
+          "name": "Last Quarter",
+          "length": 5,
+          "singleDay": false,
+          "icon": "last-quarter"
+        },
+        {
+          "name": "Waning Crescent",
+          "length": 12,
+          "singleDay": false,
+          "icon": "waning-crescent"
+        }
+      ],
+      "color": "##cc5533",
+      "translations": {
+        "en": {
+          "description": "The little reddish friend of Ménulis"
+        }
+      }
+    }
+  ],
+  "time": {
+    "hoursInDay": 24,
+    "minutesInHour": 60,
+    "secondsInMinute": 60
+  },
+  "dateFormats": {
+    "default": "{{ss-day format=\"ordinal\"}} {{ss-month format=\"name\"}}, {{year}} DA",
+    "short": "{{ss-day}}/{{ss-month}}/{{year}}",
+    "long": "{{ss-weekday format=\"name\"}}, {{ss-day format=\"ordinal\"}} {{ss-month format=\"name\"}}, {{year}} DA"
+  }
+}
+
